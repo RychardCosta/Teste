@@ -1,0 +1,30 @@
+
+.formulario-container {
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    margin: 0 auto;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.formulario-container .documentos button {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.formulario-container  select{
+    display: flex;
+    align-items: center;
+
+    margin-right: 30px;
+}
+
+.formulario-container .documentos input{
+    display: grid;
+}
